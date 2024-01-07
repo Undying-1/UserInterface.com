@@ -33,6 +33,6 @@ This is 0.0.1 version of testing code will be more accurate and beautiful after 
 
 ## Authors
 
-* **Davron Nematov** - *Initial work* - [PurpleBooth](https://github.com/Undying-1?tab=repositories)
+* **Davron Nematov** - *Initial work* - [Repositories](https://github.com/Undying-1?tab=repositories)
 
 
