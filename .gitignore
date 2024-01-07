@@ -10,6 +10,9 @@ staticfiles/*
 *.sqlite3
 db.sqlite3
 .vscode
+*.vscode
+*vscode
+vscode*
 # Distribution / packaging
 .Python
 build/
